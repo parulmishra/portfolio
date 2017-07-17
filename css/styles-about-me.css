@@ -1,0 +1,15 @@
+.image
+{
+	float:left;
+	width:20%;
+	padding:12px;
+}
+.about-me
+{
+	font-size:20px;
+	padding:10px;
+	font-family: sans-seriff;
+	word-spacing:10px;
+	line-height:100%;
+	width:70%;
+}
